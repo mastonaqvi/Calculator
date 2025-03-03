@@ -5,7 +5,7 @@ int main() {
     char op;
     double num1, num2;
 
-    cout << "Enter operator (+, -, *, /): ";
+    cout << "Enter operator (+, -, *, /(FOR DIVIDE ): ";
     cin >> op;
 
     cout << "Enter two numbers: ";
